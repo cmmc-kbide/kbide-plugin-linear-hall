@@ -8,7 +8,7 @@
   "author": "Apinun",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-linear-hall/",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "board" : "",
   "platform": ["arduino-esp32"],
   "license": "",
