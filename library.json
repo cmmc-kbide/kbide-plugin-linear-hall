@@ -1,17 +1,17 @@
 {
   "name" : "kbide-plugin-linear-hall",
-  "title": "linear-hall",
+  "title": "KY-024 LINEAR MAGNETIC HALL MODULE",
   "keywords": "linear-hall, esp32, esp8266, arduino",
   "description": "linear-hall plugin for KB-IDE",
   "category":"",
   "git": "https://github.com/cmmc-kbide/kbide-plugin-linear-hall/",
-  "author": "cmmakerclub",
+  "author": "Apinun",
   "email": "",
   "url": "https://github.com/cmmc-kbide/kbide-plugin-linear-hall/",
   "version": "1.0.0",
   "board" : "",
   "platform": ["arduino-esp32"],
   "license": "",
-  "image" : "/static/display.png",
+  "image" : "/static/display.jpg",
   "homepage": "http://www.kbide.org"
 }
